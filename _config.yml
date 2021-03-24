@@ -20,7 +20,7 @@ title                    : "Zerojin note :)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "zerojin1014"
-description              : "Bio code editor."
+description              : "Bio code editor"
 url                      : "https://zerojin1014.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "zerojin1014"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "**Bio code editor**"
+  location         : "Kookmin University"
+  email            : "koalapyj1@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
